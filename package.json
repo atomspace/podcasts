@@ -1,0 +1,27 @@
+{
+  "name": "podcasts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "neutrino start",
+    "build": "neutrino build",
+    "lint": "neutrino lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomspaceodua/podcasts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atomspaceodua/podcasts/issues"
+  },
+  "homepage": "https://github.com/atomspaceodua/podcasts#readme",
+  "dependencies": {
+    "neutrino" : "8.2.3",
+	"@atomspace/eslint" : "1.0.0",
+	"@neutrinojs/web" : "8.2.3"
+  }
+}
