@@ -1,1 +1,1 @@
-console.log(332);
+require('./controllers/subscribtion.controller');

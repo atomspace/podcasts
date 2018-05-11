@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/atomspaceodua/podcasts#readme",
   "dependencies": {
-    "neutrino" : "8.2.3",
-	"@atomspace/eslint" : "1.0.0",
-	"@neutrinojs/web" : "8.2.3"
+    "neutrino": "8.2.3",
+    "@atomspace/eslint": "1.0.0",
+    "@neutrinojs/web": "8.2.3"
   }
 }
